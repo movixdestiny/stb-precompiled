@@ -19,8 +19,8 @@
             "disabled": 1
         },
         {
-            "name": "VIPOR-AP",
-            "url": "stratum+tcp://ap.vipor.net:5040",
+            "name": "VIPOR-DE",
+            "url": "stratum+tcp://de.vipor.net:5040",
             "timeout": 180,
             "disabled": 0
         },
